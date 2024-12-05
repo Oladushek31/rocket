@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\bin\Debug\AnimationPr.exe.config
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\bin\Debug\AnimationPr.exe
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\bin\Debug\AnimationPr.pdb
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.Form1.resources
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.Properties.Resources.resources
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.exe
+C:\Users\HP\Documents\Программирование\Visual Studio\AnimationPr\AnimationPr\obj\Debug\AnimationPr.pdb
